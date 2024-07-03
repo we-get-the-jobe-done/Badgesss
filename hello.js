@@ -1,1 +1,1 @@
-consloe.log("HELLO")
+console.log("HELLO")
